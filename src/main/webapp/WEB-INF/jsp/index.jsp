@@ -1,12 +1,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>INDEX JSP</title>
+    <title>Test - INDEX JSP FILE TEST</title>
 </head>
 <body>
 <h1>INDEX JSP</h1>
 <tr>
-    Striving While .... !!!!!
+    INDEX.JSP TEST While Striving to get Better .... !!!!!
 </tr>
 </body>
 </html>

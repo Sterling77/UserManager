@@ -1,12 +1,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>TEST JSP</title>
+    <title>Test- User Manager - TEST JSP FILE</title>
 </head>
 <body>
 <h1>TEST JSP</h1>
 <tr>
-    Striving While .....
+    TEST.JSP - While Striving to get better!!!!!
 </tr>
 </body>
 </html>
